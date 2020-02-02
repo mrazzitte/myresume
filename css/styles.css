@@ -179,7 +179,7 @@ header { position:relative; z-index: 9999; width:100%; background:#fff; padding:
 #section1 { display:block; height:100%; width:100%; }
 .post #section1 { height:80%; }
 /* fullscreen intro */
-.intro { height:100%; width:100%; background:url(../images/fullscreen-me.jpg) no-repeat center top; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; -o-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; display:block; background-attachment:fixed; }
+.intro { height:100%; width:100%; background:url(../images/fullscreen-me.webp) no-repeat center top; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; -o-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; display:block; background-attachment:fixed; }
 /*.touch .intro { background:url(../images/fullscreen-me.jpg) center center no-repeat; background-attachment: scroll; }*/
 
 .blog #section3 { height:auto; width:100%; background:url(../images/references.jpg) no-repeat center center fixed; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; -o-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; display:block; background-attachment:fixed; position:relative }
