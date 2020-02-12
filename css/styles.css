@@ -182,8 +182,8 @@ header { position:relative; z-index: 9999; width:100%; background:#fff; padding:
 .intro { height:100%; width:100%; background:url(../images/fullscreen-me.jpg) no-repeat center top; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; -o-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; display:block; background-attachment:fixed; }
 /*.touch .intro { background:url(../images/fullscreen-me.jpg) center center no-repeat; background-attachment: scroll; }*/
 
-.blog #section3 { height:auto; width:100%; background:url(../images/references.jpg) no-repeat center center fixed; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; -o-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; display:block; background-attachment:fixed; position:relative }
-/*.blog.touch #section3 { background:url(../images/references.jpg) center center no-repeat; background-attachment: scroll; }*/
+.blog #section3 { height:auto; width:100%; background:url(../images/references.webp) no-repeat center center fixed; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; -o-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; display:block; background-attachment:fixed; position:relative }
+/*.blog.touch #section3 { background:url(../images/references.webp) center center no-repeat; background-attachment: scroll; }*/
 
 .post1 .intro, .post1 #section3 { height:70%; width:100%; background:url(../images/blog/fullscreen-blog.jpg) no-repeat center top; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; -o-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; display:block; background-attachment:fixed; }
 /*.post1.touch .intro, .post1.touch #section3 { background:url(../images/fullscreen-blog.jpg) center center no-repeat; background-attachment: scroll; }*/
@@ -210,8 +210,8 @@ header { position:relative; z-index: 9999; width:100%; background:#fff; padding:
 .videos { height:350px; width:620px }
 .videoWrapper { position:relative; padding-bottom:56.25%; /* 16:9 */ height:0; }
 .videoWrapper iframe { position:absolute; top:0; left:0; width:100%; height:100%; }
-#quotes-wrapper { height:auto; width:100%; background:url(../images/references.jpg) no-repeat center center fixed; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; -o-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; display:block; background-attachment:fixed; position:relative }
-.touch #quotes-wrapper { background:url(../images/references.jpg) center center no-repeat; background-attachment: scroll; }
+#quotes-wrapper { height:auto; width:100%; background:url(../images/references.webp) no-repeat center center fixed; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; -o-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; display:block; background-attachment:fixed; position:relative }
+.touch #quotes-wrapper { background:url(../images/references.webp) center center no-repeat; background-attachment: scroll; }
 /*only for webkit  browsers*/
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     .intro, #quotes-wrapper, .blog #section3, .post1 .intro, .post1 #section3 { 
