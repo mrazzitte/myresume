@@ -57,7 +57,7 @@
 .clearfix { display:block; }/* end hide from IE-mac */
 .alignleft { float:left; }
 .alignright { float:right; }
-.aligncenter { float:none; display:inline-block }
+.aligncenter { float:none; display:inline-block; }
 .alignnone { clear:both; font-size:0; line-height:0; margin:0; padding:0; border:0; height:0; width:0; }
 .centered { text-align:center; }
 .hidden { display: none !important; visibility: hidden; }
